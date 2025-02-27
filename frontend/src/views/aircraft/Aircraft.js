@@ -33,7 +33,7 @@ const Aircraft = () => {
 
         // API function to send data
         const postAircraftData = async (data) => {
-            const response = await axios.post("http://localhost:4000/api/aircraft/postaircraftdata", data);
+            const response = await axios.post("https://taal.onrender.com/api/aircraft/postaircraftdata", data);
             return response.data;
         };
 

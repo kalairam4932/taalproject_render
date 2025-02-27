@@ -6,7 +6,7 @@ const AircraftTable = () => {
     queryKey: ["aircraftdatakey"],
     queryFn: async () => {
       try {
-        const res = await fetch("http://localhost:4000/api/aircraft/", {
+        const res = await fetch("https://taal.onrender.com/api/aircraft/", {
           method: "GET",
           credentials: "include",
           headers: {

@@ -402,8 +402,8 @@ const AircraftStatus = () => {
           </div>
         </div>
         <div className='d-flex justify-content-end mt-2'>
-          <input className="btn btn-light btn-border rounded px-4 p-1 mx-2 " type="button" value="Save" />
-          <input className="btn btn-light btn-border rounded px-4 p-1 mx-2" type="submit" value="print" />
+          <input className="btn btn-light btn-border rounded px-4 p-1 mx-2 " type="submit" value="Save" />
+          <input className="btn btn-light btn-border rounded px-4 p-1 mx-2" type="button" value="print" />
           <input className="btn-border-close rounded px-4  p-1 mx-2" type="reset" value="Close" />
         </div>
       </form>

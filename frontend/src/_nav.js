@@ -135,7 +135,7 @@ const _nav = [
   },
   {
     component: CNavGroup,
-    name: 'MPD?ADs/SBs',
+    name: 'MPD/ADs/SBs',
     to: '/',
     icon: <CIcon icon={cilCursor} customClassName="nav-icon" />,
     items: [

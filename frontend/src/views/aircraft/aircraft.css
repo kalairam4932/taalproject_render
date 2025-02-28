@@ -1,0 +1,42 @@
+button.nav-link {
+    color: #000000;
+}
+
+button.nav-link :hover {
+    color: #000000;
+}
+
+.btn-bg-color {
+    background: #056CA5;
+}
+
+.btn-border {
+    border-radius: 20px;
+}
+
+.input-border {
+    border-radius: 20px;
+    outline: 1px solid black !important; /* Black outline */
+}
+
+.total-weight-section {
+    font-size: 12px;
+}
+
+.btn-border {
+    outline: 1px solid black !important; /* Black outline */
+}
+
+.btn-border-close {
+    background: #056CA5;
+    outline: 1px solid white !important; /* Black outline */
+    color : #fff
+}
+
+.btn-border-attachment1 {
+    outline: 2px solid #056CA5 !important; /* Black outline */
+}
+
+.btn-border-attachment2 {
+    outline: 2px solid #ea0202 !important; /* Black outline */
+}
